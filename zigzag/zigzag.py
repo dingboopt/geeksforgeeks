@@ -26,6 +26,7 @@ def check(array):
         return True
     
 from random import randint
+print 3
 
 x=[randint(0,9) for p in range(randint(0,9))]
     
